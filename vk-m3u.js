@@ -22,7 +22,7 @@
             if (list.hasOwnProperty(i)) {
                 item = list[i];
                 track = {};
-                track.url = item.querySelector('.play_btn input').value;
+                track.url = item.querySelector('input').value;
                 track.url = track.url.substring(0, track.url.indexOf(','));
                 track.artist = item.querySelector('.info .title_wrap a').innerHTML;
                 console.log(track);
