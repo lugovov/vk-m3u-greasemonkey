@@ -1,6 +1,6 @@
 vk-m3u-greasemonkey
 ===================
 
-VKontakte music to M3U user script
+VKontakte music to M3U or WGET.sh user script
 
-[[http://i.imgur.com/PWS2WhF.png|alt=vk-m3u-greasemonkey]]
+![alt vk-m3u-greasemonkey](http://i.imgur.com/PWS2WhF.png)
